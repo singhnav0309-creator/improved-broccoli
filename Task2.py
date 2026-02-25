@@ -1,6 +1,7 @@
 import math
 
 num = int(input("Enter a number: "))
+
 output = math.sqrt(num)
 print(f"square root: {output}")
 
